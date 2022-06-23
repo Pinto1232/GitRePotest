@@ -2,7 +2,9 @@ import React from 'react'
 
 const userB = () => {
   return (
-    <div>userB</div>
+      <div>
+          <h2>I am making my own change</h2>
+    </div>
   )
 }
 
